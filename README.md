@@ -1,7 +1,10 @@
 ### Hi there 👋, I Emmanuel Eleam.
-#### I am GitHub read me generator creator
+#### I basically speak to computers through code
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as used in your profile.
+I work as a software engineer, currently focused on __web development__, basically I develop the web that is if we are not talking about spider webs.  
+Feel free to use some of my codes in your project, that is why it is a repository anyways.
+
+> “Truth can only be found in one place: the code.” -  Robert C. Martin
 
 Skills: C++/ Javascript(Node | React) / Typescript / Python(Flask | Django)
 
