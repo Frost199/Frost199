@@ -13,7 +13,7 @@ Skills: C++/ Javascript(Node | React) / Typescript / Python(Flask | Django)
 - 🌱 I’m currently learning how to stop saying "but it works on local" and also keep improving on my Web Development skills as it never ends.
 - 💬 Ask me about Clean code and Football
 - ⚡ Fun fact: It only takes few clicks to reach out to me.
-- 🌍 How to reach me:  
+- 🌍 How to reach me:  [Emmanuel Eleam](mailto:emmaldini12@gmail.com)
 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-eleam/)](https://www.linkedin.com/in/emmanuel-eleam/)
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/e_eleam)](https://twitter.com/e_eleam)
