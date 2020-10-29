@@ -6,7 +6,7 @@ Feel free to use some of my codes in your project, that is why it is a repositor
 
 > “Truth can only be found in one place: the code.” -  Robert C. Martin
 
-Skills: C++/ Javascript(Node | React) / Typescript / Python(Flask | Django)
+Skills: C++/ Javascript(Node | React) / Typescript / Python(Flask | Django) / Ruby (Ruby on Rails)
 
 
 - 🔭 I’m currently working on opensource, private projects.
